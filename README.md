@@ -2,6 +2,7 @@
 
 - this is a sample code for learning express and api development.
 - I am checking my learning
+- MVC structure will be followed here
 
 ### commands to use
 
