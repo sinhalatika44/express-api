@@ -17,3 +17,6 @@
 - `git fetch origin` - fetch code from remote from all branches
 - `git push origin master` - push the code to `master` branch. Branch name can change in future
 
+### Author
+
+- Latika(sinhalatika44)
