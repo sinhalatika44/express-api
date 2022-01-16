@@ -1,0 +1,25 @@
+{
+  "name": "latika-api",
+  "version": "1.0.0",
+  "description": "sample api code for basic learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinhalatika44/express-api.git"
+  },
+  "keywords": [
+    "api",
+    "express",
+    "web",
+    "learning"
+  ],
+  "author": "latika sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinhalatika44/express-api/issues"
+  },
+  "homepage": "https://github.com/sinhalatika44/express-api#readme"
+}
