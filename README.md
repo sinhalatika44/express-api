@@ -8,6 +8,7 @@
 - `nvm use v14.16.0` - to change to a new node version
 - `node -v` - we know which version of node is being used
 - `npm install` - we install all packages in package.json file depedencies
+- `npm start` - start the node project
 
 ### git command for reference
 
