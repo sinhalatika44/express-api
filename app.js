@@ -1,9 +1,13 @@
 const express = require('express');
 const app = express()
 
-app.get('/', (req, res) => {
-  res.send('Hello Latika!')
-})
+const indexRouter = require('./routes/index');
+const usersRouter = require('./routes/user');
+
+app.use(express.json());
+
+app.use('/', indexRouter);
+app.use('/user', usersRouter);
 
 // error handler
 app.use(function(err, req, res, next) {
